@@ -97,9 +97,9 @@ pip install opencv-python numpy
 
 ## 🎬 识别效果演示
 
-|         初始ROI选取          |             光流追踪              |             光流追踪             |            小目标追踪            |
+|         初始ROI选取          |             光流追踪              |             小目标追踪             |            小目标追踪            |
 |:------------------------:|:-----------------------------:|:----------------------------:|:---------------------------:|
-| ![roi](images/step1.PNG) | ![tracking](images/step2.jpg) | ![recover](images/step3.jpg) | ![center](images/step4.jpg) |
+| ![roi](images/step1.png) | ![tracking](images/step2.jpg) | ![recover](images/step3.jpg) | ![center](images/step4.jpg) |
 
 
 ---
