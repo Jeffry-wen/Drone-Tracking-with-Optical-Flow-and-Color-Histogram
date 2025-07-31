@@ -106,6 +106,6 @@ pip install opencv-python numpy
 
 ## 📜 许可协议
 
-本项目感谢山哥的大力支持，目前还在优化迭代，code coming soon。
+本项目感谢The shan的大力支持，目前还在优化迭代，code coming soon。
 
 
