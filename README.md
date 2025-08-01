@@ -101,6 +101,7 @@ pip install opencv-python numpy
 |:------------------------:|:-----------------------------:|:----------------------------:|:---------------------------:|
 | ![roi](images/step1.png) | ![tracking](images/step2.jpg) | ![recover](images/step3.jpg) | ![center](images/step4.jpg) |
 
+🎥你可以在 [这里](https://youtu.be/KbvKQgmJpAk?si=-WDRc_O1mZPPBcnq) 观看完整的视频演示
 
 ---
 
